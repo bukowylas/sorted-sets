@@ -1,0 +1,6 @@
+# working notes, not for publication
+/notes/
+
+# Python
+__pycache__/
+*.pyc
